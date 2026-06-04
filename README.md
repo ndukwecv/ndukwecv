@@ -1,4 +1,4 @@
-** Hi! 👋 **
+**Hi! 👋  **
  I'm a cybersecurity student passionate about learning and exploring the ever-evolving world of digital security. This repository serves as my personal knowledge base and portfolio, where I document my learning journey through hands-on labs, CTF (Capture The Flag) challenges, security tools, and research notes.
 
 **Here you'll find:**
